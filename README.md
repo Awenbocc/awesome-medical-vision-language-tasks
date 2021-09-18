@@ -17,3 +17,9 @@ and related area.
 - [Medical Visual Question Answering](#medical)
   - [Papers](#papers) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019) - [2020](#2020) - [2021](#2021)
   - [Dataset](#dataset)
+
+## Radiology Report Generation
+
+## Medical Visual Question Answering
+
+## Licence
