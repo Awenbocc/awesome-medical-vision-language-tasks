@@ -14,3 +14,6 @@ and related area.
 - [Radiology Report Generation](#report)
   - [Papers](#papers) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019) - [2020](#2020) - [2021](#2021)
   - [Dataset](#dataset)
+- [Medical Visual Question Answering](#medical)
+  - [Papers](#papers) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019) - [2020](#2020) - [2021](#2021)
+  - [Dataset](#dataset)
