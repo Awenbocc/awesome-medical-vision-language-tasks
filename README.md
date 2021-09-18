@@ -1,9 +1,11 @@
-# Awesome Medical Vision-and-Language Tasks:[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Medical Vision-and-Language Tasks
 
-A curated list of 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Medical Visual Question Answering(Med-VQA)** (Radiology/Pathology Question Answering)
+A list of 
 
-**Radiology Report Generation** (Medical Image Captioning)
+:point_right: **Medical Visual Question Answering(Med-VQA)** (Radiology/Pathology Question Answering)
+
+:point_right: **Radiology Report Generation** (Medical Image Captioning)
 
 and related area. 
