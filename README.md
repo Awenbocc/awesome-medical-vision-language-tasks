@@ -33,7 +33,7 @@ and related area.
 ### Dataset
 * Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases, CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf).
 
-* PadChest: A large chest x-ray image dataset with multi-label annotated report, MedIA 2020 [[paper]] (https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614).
+* PadChest: A large chest x-ray image dataset with multi-label annotated report, MedIA 2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614).
 
 
 ## Medical Visual Question Answering
