@@ -25,6 +25,7 @@ and related area.
 #### 2016
 
 #### 2017
+* Clinically Accurate Chest X-Ray Report Generation, PMLR 2017 [[paper]](http://proceedings.mlr.press/v106/liu19a.html).
 
 #### 2018
 * TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays, CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.html).
